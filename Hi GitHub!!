@@ -1,0 +1,18 @@
+REM To perform four basic mathematical operations
+CLS
+PRINT “Enter the first number : “ 
+INPUT num1
+PRINT “Enter the second number : “ 
+INPUT num2
+sum=num1+num2
+diff= num1-num2
+prod=num1*num2
+quot=num1/num2
+PRINT “BASIC OPERATIONS IN MATHEMATICS”
+PRINT “^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^”
+PRINT “The two numbers entered are : “,num1,”and”,num2 
+PRINT “The sum is : “, sum
+PRINT “The difference is : “,diff
+PRINT “The product is : “,prod
+PRINT “The quotient is : “,quot
+PRINT “Hope you enjoyed coding on mathematical computations!”
